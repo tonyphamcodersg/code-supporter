@@ -15,6 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\..\Core\Dependency\Cassie.DependencyInjection.Extensions\Cassie.DependencyInjection.Extensions.csproj" />
     <ProjectReference Include="..\Cassie.Application\Cassie.Application.csproj" />
   </ItemGroup>
 

@@ -1,5 +1,5 @@
 ﻿using Cassie.Application.Common.Interfaces;
-using Cassie.Infrastructure.BuildingBlocks.RegisterDependencyInjection;
+using Cassie.DependencyInjection.Extensions;
 using Cassie.Infrastructure.Persistence;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
