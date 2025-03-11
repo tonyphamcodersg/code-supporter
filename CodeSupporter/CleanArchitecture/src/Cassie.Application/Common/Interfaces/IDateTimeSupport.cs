@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Cassie.Domain.Common.Interfaces
+namespace Cassie.Application.Common.Interfaces
 {
     /// <summary>
     /// Define an datetime support for project
