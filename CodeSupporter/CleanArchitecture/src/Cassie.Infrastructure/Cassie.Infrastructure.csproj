@@ -10,13 +10,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="BuildingBlocks\Hangfire\" />
-    <Folder Include="BuildingBlocks\Swagger\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\..\..\Core\Dependency\Cassie.DependencyInjection.Extensions\Cassie.DependencyInjection.Extensions.csproj" />
     <ProjectReference Include="..\Cassie.Application\Cassie.Application.csproj" />
+    <ProjectReference Include="..\Cassie.Domain\Cassie.Domain.csproj" />
   </ItemGroup>
 
 </Project>
